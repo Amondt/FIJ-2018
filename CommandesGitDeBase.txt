@@ -1,0 +1,9 @@
+Commandes Git de bases
+
+1. Pour commencer, créer un dépot en ligne sur Github si ce n'est pas déjà fait.
+2. Copier l'adresse du dépot via le bouton "Clone or Download".
+3. Tapper dans le terminal : "git clone 'adresse'"
+4. Faire nos modifs
+5. Demander a git suivre nos nouveaux fichiers avec : "git add *"
+6. Demander a git de faire une sauvegarde de nos fichiers
+7. Demander a git d'envoyer les mises à jours en ligne sur github
