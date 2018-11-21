@@ -1,0 +1,5 @@
+ls = list
+cd = change directory / changer de dossier
+mkdir = make directory / créer un dossier
+touch = créer un fichier vide
+rm = remove / retirer
